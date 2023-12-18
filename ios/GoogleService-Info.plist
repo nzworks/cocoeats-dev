@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>207948719304-np45nalq2pe2rok6khlbvtuebb3vgcjq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.207948719304-np45nalq2pe2rok6khlbvtuebb3vgcjq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEqSx2M5VP-dlmqXp4aCdpIyVGTNeB7bY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>207948719304</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.intoque.coco.eats</string>
+	<key>PROJECT_ID</key>
+	<string>cocoeats</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cocoeats.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:207948719304:ios:b7ce6ee63a042a73aa31fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://cocoeats-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

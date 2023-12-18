@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207948719304",
+    "firebase_url": "https://cocoeats-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cocoeats",
+    "storage_bucket": "cocoeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207948719304:android:095c8540a90921cfaa31fd",
+        "android_client_info": {
+          "package_name": "com.coco.eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207948719304-9rq0ukikc3uudh19ic94gd5ltf5fmpod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpdHbEgiqsBwb-g_J_QkHGNciADX01Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207948719304-9rq0ukikc3uudh19ic94gd5ltf5fmpod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207948719304-5efifkea01pq2n23b5bf22t9viqu3a9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coco.eats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
