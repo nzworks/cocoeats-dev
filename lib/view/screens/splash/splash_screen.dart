@@ -36,6 +36,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     bool firstTime = true;
+    print('here?.............');
     _onConnectivityChanged = Connectivity().onConnectivityChanged.listen((ConnectivityResult result) {
       if(!firstTime) {
         bool isNotConnected = result != ConnectivityResult.wifi && result != ConnectivityResult.mobile;

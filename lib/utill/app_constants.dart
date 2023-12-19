@@ -3,10 +3,10 @@ import 'package:flutter_restaurant/helper/app_mode.dart';
 import 'package:flutter_restaurant/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'eFood';
-  static const String appVersion = '10.2';
+  static const String appName = 'Coco Eats';
+  static const String appVersion = '11.2';
   static const AppMode appMode = AppMode.release;
-  static const String baseUrl =  'YOUR_BASE_URL_HERE';
+  static const String baseUrl =  'https://manage.cocoeats.co.uk';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String latestProductUri = '/api/v1/products/latest';
@@ -39,6 +39,7 @@ class AppConstants {
   static const String couponApplyUri = '/api/v1/coupon/apply?code=';
   static const String orderListUri = '/api/v1/customer/order/list';
   static const String orderCancelUri = '/api/v1/customer/order/cancel';
+  static const String updateMethodUri = '/api/v1/customer/order/payment-method';
   static const String orderDetailsUri = '/api/v1/customer/order/details?order_id=';
   static const String wishListGetUri = '/api/v1/customer/wish-list';
   static const String addWishListUri = '/api/v1/customer/wish-list/add';
@@ -73,6 +74,8 @@ class AppConstants {
   static const String guestTrackUrl  = '/api/v1/customer/order/guest-track';
   static const String guestOrderDetailsUrl  = '/api/v1/customer/order/details-guest';
   static const String firebaseAuthVerify = '/api/v1/auth/firebase-auth-verify';
+
+
 
 
 
